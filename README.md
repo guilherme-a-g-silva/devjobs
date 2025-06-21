@@ -42,7 +42,6 @@ This project was developed to sharpen real-world frontend skills, including:
 ## 🌍 Live Demo
 
 🟢 [https://devjobs-beta-opal.vercel.app/](https://devjobs-beta-opal.vercel.app/)  
-_(Replace this link with your real Vercel deployment)_
 
 [![View Live Demo](https://img.shields.io/badge/View%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://devjobs-beta-opal.vercel.app/)
 
@@ -51,7 +50,7 @@ _(Replace this link with your real Vercel deployment)_
 ## 🛠 How to Run Locally
 
 ```bash
-git clone https://github.com/seu-username/devjobs.git
+git clone https://github.com/guilherme-a-g-silva/devjobs.git
 cd devjobs
 npm install
 npm run dev
