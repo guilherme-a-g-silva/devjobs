@@ -1,12 +1,57 @@
-# React + Vite
+# 🚀 DevJobs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
 
-## Expanding the ESLint configuration
+**DevJobs** is a modern and responsive job board built with **React** and **Vite**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was developed to sharpen real-world frontend skills, including:
+
+- Routing and dynamic filtering with URL search parameters
+- Context API for global state (submitted jobs)
+- Responsive design with modals
+- Custom hooks and clean component structure
+
+---
+
+## ✨ Features
+
+- ✅ View job listings
+- ✅ Filter by **category** and **location**
+- ✅ Search by **keyword**
+- ✅ View full job details in a **modal**
+- ✅ Simulate applications with "Apply Now!"
+- ✅ Track applied jobs globally
+
+---
+
+## ⚙️ Tech Stack
+
+- **React** (with React Router)
+- **Vite**
+- **Context API**
+- **Custom Hooks**
+- **CSS3** with media queries
+
+---
+
+## 🌍 Live Demo
+
+🟢 [https://devjobs-beta-opal.vercel.app/](https://devjobs-beta-opal.vercel.app/)  
+_(Replace this link with your real Vercel deployment)_
+
+[![View Live Demo](https://img.shields.io/badge/View%20Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://devjobs-beta-opal.vercel.app/)
+
+---
+
+## 🛠 How to Run Locally
+
+```bash
+git clone https://github.com/seu-username/devjobs.git
+cd devjobs
+npm install
+npm run dev
